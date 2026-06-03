@@ -1,0 +1,2 @@
+Este projeto tem como objetivo solucionar um problema de perca de patrimonio do projeto container do livro em manaus,
+ e tem como intuito secundario cumprir o checkout de presença 3 da materia: Projeto Integrador II
